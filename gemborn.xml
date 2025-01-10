@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium>
+  <race>
+    <name>Gemborn</name>
+    <description>
+      The sun beat down on the shimmering sands, reflecting off the iridescent scales of Lyra, an Amethyst Gemborn. Her skin, a deep purple hue, shimmered with an inner light, a testament to the powerful magic that flowed through her veins. Centuries had passed since she first emerged from the heart of a massive amethyst geode, her consciousness slowly awakening within the crystalline form. 
+      Lyra, like all Gemborn, possessed an innate connection to magic. She could sense the subtle vibrations of the world around her, the flow of arcane energy through the very air. Her mind was sharp, her intellect keen, a reflection of the clarity and focus inherent in her crystalline form. 
+      But the peace of her solitude was shattered by the arrival of a band of goblins, their crude weapons gleaming in the harsh sunlight. They had been drawn to the shimmering amethyst crystals that adorned Lyra's cave, their greed clouding their judgment. Lyra, however, was no mere ornament. With a graceful movement, she unleashed a psychic blast, sending the goblins reeling back in confusion and pain. 
+      This is just a glimpse into the life of a Gemborn. These beings of pure crystal possess unique abilities, such as an innate connection to magic and a remarkable resistance to certain forms of harm. They are a race of both beauty and power, their very existence a testament to the extraordinary forces that shape the world.
+    </description>
+    <keyFeatures>
+      <feature>
+        <name>Crystal Heart</name>
+        <description>Gemborn have advantage on Constitution saving throws against being poisoned or petrified.</description>
+      </feature>
+      <feature>
+        <name>Crystal Clarity</name>
+        <description>Gemborn have advantage on Intelligence (Arcana) checks.</description>
+      </feature>
+      <feature>
+        <name>Natural Armor</name>
+        <description>Gemborn have an AC of 10 + their Dexterity modifier + their Constitution modifier.</description>
+      </feature>
+    </keyFeatures>
+    <physicalDescription>
+      <appearance>Resemble humanoid beings composed of crystalline structures. Appearance varies greatly depending on the type of crystal.</appearance>
+      <size>Medium</size>
+      <speed>30 feet</speed>
+      <height>6'0" to 7'0"</height>
+      <weight>150-200 lbs</weight>
+      <lifespan>500-1000 years</lifespan>
+    </physicalDescription>
+    <startingEquipment>
+      <option>
+        <description>Two simple weapons</description>
+      </option>
+      <option>
+        <description>One simple weapon and one martial weapon</description>
+      </option>
+      <option>
+        <description>Explorer's Pack</description>
+      </option>
+      <option>
+        <description>Dungeoneer's Pack</description>
+      </option>
+      <option>
+        <description>Burglar's Pack</description>
+      </option>
+      <item>
+        <name>Crystal Shard</name>
+        <description>A sharp fragment of crystal that can be used as a makeshift weapon or tool.</description>
+      </item>
+      <item>
+        <name>Pouch of Crystal Dust</name>
+        <description>A small pouch containing powdered crystal that can be used for various purposes, such as creating a blinding flash or repairing minor damage to their crystalline form.</description>
+      </item>
+    </startingEquipment>
+    <suggestedClasses>
+      <class>Wizard</class>
+      <class>Sorcerer</class>
+      <class>Monk</class>
+      <class>Rogue</class>
+      <class>Cleric</class>
+    </suggestedClasses>
+    <roleplayingNotes>
+      <note>Gemborn are a relatively young race, still discovering their place in the world. They may be viewed with curiosity, awe, or even fear by other races.</note>
+      <note>Their crystalline nature can impact their social interactions. Some Gemborn might find it difficult to express emotions or form deep emotional connections, while others might be unusually sensitive to the emotions of others.</note>
+      <note>Gemborn may have a unique perspective on the world, viewing it through the lens of their crystalline nature. They might be drawn to places of natural beauty, such as crystal caves, gem mines, or shimmering lakes.</note>
+      <note>The different Gemborn variants might have distinct cultural and societal norms. For example, Diamond Gemborn might value strength and resilience, while Rose Quartz Gemborn might prioritize compassion and empathy.</note>
+    </roleplayingNotes>
+    <subraces>
+      <subrace>
+        <name>Amethyst Gemborn</name>
+        <description>A being of ethereal amethyst, their skin shimmering with an otherworldly glow. They move through the world with a sense of detached observation, perceiving patterns and connections unseen by others. Their minds are a kaleidoscope of visions, both from the past and potential futures.</description>
+        <abilityScoreIncrease>Intelligence +2, Wisdom +1</abilityScoreIncrease>
+        <acBonus>2</acBonus>
+        <alignment>Often Neutral or Chaotic</alignment>
+        <features>
+          <feature>
+            <name>Psychic Sensitivity</name>
+            <description>Advantage on Wisdom (Insight) checks and saves against charm/frighten.</description>
+          </feature>
+          <feature>
+            <name>Dream Weaver</name>
+            <description>1/long rest, trance for vision of future or distant location.</description>
+          </feature>
+          <feature>
+            <name>Phasewalk</name>
+            <description>1/long rest, ethereal state, immune to nonmagical weapons for 1 round.</description>
+          </feature>
+          <feature>
+            <name>Mind Shield</name>
+            <description>Advantage on saves against mental manipulation.</description>
+          </feature>
+          <feature>
+            <name>Arcane Intuition</name>
+            <description>Advantage on Intelligence (Arcana) checks to recall magic info.</description>
+          </feature>
+        </features>
+        <cantrips>
+          <cantrip>Mage Hand</cantrip>
+          <cantrip>Dancing Lights</cantrip>
+        </cantrips>
+      </subrace>
+      <subrace>
+        <name>Diamond Gemborn</name>
+        <description>Clad in crystalline armor, their form is a testament to strength and resilience. They exude an aura of authority and command, their presence inspiring both awe and respect. Their focus is unwavering, their determination unyielding.</description>
+        <abilityScoreIncrease>Strength +2, Constitution +1</abilityScoreIncrease>
+        <acBonus>3</acBonus>
+        <alignment>Tend toward Lawful alignments.</alignment>
+        <features>
+          <feature>
+            <name>Adamantine Resilience</name>
+            <description>Resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</description>
+          </feature>
+          <feature>
+            <name>Inner Light</name>
+            <description>1/long rest, emit bright light in a 15-foot radius for 1 minute, granting allies advantage on sight-based Perception checks.</description>
+          </feature>
+          <feature>
+            <name>Flawless Focus</name>
+            <description>Advantage on Concentration saving throws.</description>
+          </feature>
+          <feature>
+            <name>Diamond Aura</name>
+            <description>As a reaction when hit, can force attacker to make a Dexterity saving throw or take force damage.</description>
+          </feature>
+          <feature>
+            <name>Shattering Strike</name>
+            <description>1/long rest, deal extra force damage with a melee weapon attack.</description>
+          </feature>
+        </features>
+        <cantrips>
+          <cantrip>Frostbite</cantrip>
+          <cantrip>Mage Armor</cantrip>
+        </cantrips>
+      </subrace>
+      <subrace>
+        <name>Emerald Gemborn</name>
+        <description>With skin the color of fresh spring leaves, they embody the life force of nature. They possess a deep connection to the natural world, understanding its rhythms and secrets. Their touch can mend wounds and coax life from barren lands.</description>
+        <abilityScoreIncrease>Wisdom +2, Constitution +1</abilityScoreIncrease>
+        <acBonus>1</acBonus>
+        <alignment>Typically Neutral alignments.</alignment>
+        <features>
+          <feature>
+            <name>Nature's Whisperer</name>
+            <description>Can cast "Speak with Plants" and "Druidcraft" each 1/long rest without using a spell slot.</description>
+          </feature>
+          <feature>
+            <name>Emerald Touch</name>
+            <description>Can expend a hit die to heal a creature.</description>
+          </feature>
+          <feature>
+            <name>Forest Affinity</name>
+            <description>Advantage on saves against poison and resistance to poison damage.</description>
+          </feature>
+          <feature>
+            <name>Renewing Touch</name>
+            <description>Can expend a hit die to heal a plant or accelerate its growth.</description>
+          </feature>
+          <feature>
+            <name>One With Nature</name>
+            <description>Can attempt to hide even when only lightly obscured by natural phenomena.</description>
+          </feature>
+        </features>
+        <cantrips>
+          <cantrip>Acid Splash</cantrip>
+          <cantrip>Thorn Whip</cantrip>
+        </cantrips>
+      </subrace>
+      <subrace>
+        <name>Sapphire Gemborn</name>
+        <description>Their skin shimmers with the deep hues of the ocean, reflecting their calm and collected demeanor. They are skilled at reading others, their words a soothing balm in times of conflict. Their wisdom runs deep, like the currents of the sea</description>
+        <abilityScoreIncrease>Intelligence +1, Charisma +2</abilityScoreIncrease>
+        <acBonus>2</acBonus>
+        <alignment>Often lean toward Neutral Good.</alignment>
+        <features>
+          <feature>
+            <name>Ocean's Embrace</name>
+            <description>Can hold breath twice as long and has a swimming speed of 30 feet.</description>
+          </feature>
+          <feature>
+            <name>Voice of Calm</name>
+            <description>Can expend a hit die to cast "Calm Emotions."</description>
+          </feature>
+          <feature>
+            <name>Telepathic Communication</name>
+            <description>Can communicate telepathically with creatures within 30 feet.</description>
+          </feature>
+          <feature>
+            <name>Serene Mind</name>
+            <description>Advantage on saves against being charmed or frightened.</description>
+          </feature>
+          <feature>
+            <name>Flowing Motion</name>
+            <description>Can move through the space of larger creatures.</description>
+          </feature>
+        </features>
+        <cantrips>
+          <cantrip>Minor Illusion</cantrip>
+          <cantrip>Prestidigitation</cantrip>
+        </cantrips>
+      </subrace>
+      <subrace>
+        <name>Ruby Gemborn</name>
+        <description>A fiery spirit burns within them, their skin reflecting the fiery depths of a molten core. They are impulsive and passionate, their courage inspiring those around them. Their presence ignites a sense of urgency and determination.</description>
+        <abilityScoreIncrease>Strength +1, Constitution +2</abilityScoreIncrease>
+        <acBonus>2</acBonus>
+        <alignment>Can vary, but often have a strong sense of justice.</alignment>
+        <features>
+          <feature>
+            <name>Burning Heart</name>
+            <description>Resistance to fire damage.</description>
+          </feature>
+          <feature>
+            <name>Ruby Flare</name>
+            <description>Can expend a hit die to cast "Burning Hands."</description>
+          </feature>
+          <feature>
+            <name>Imposing Presence</name>
+            <description>Advantage on Charisma (Intimidation) checks.</description>
+          </feature>
+          <feature>
+            <name>Relentless Endurance</name>
+            <description>Can drop to 1 hit point instead of 0 once per long rest.</description>
+          </feature>
+          <feature>
+            <name>Fueled by Fury</name>
+            <description>Deals extra fire damage with melee attacks while raging</description>
+          </feature>
+          <feature>
+            <name>Rage</name>
+            <description>
+              Trigger: The Ruby Gemborn can enter a rage as a bonus action. 
+              Duration: The rage lasts for 1 minute. It ends early if the Gemborn is knocked unconscious or stabilized. 
+              Benefits: While raging, the Ruby Gemborn has advantage on Strength checks and Strength saving throws. They also have resistance to bludgeoning, piercing, and slashing damage. 
+              Drawbacks: The Ruby Gemborn can't cast spells or concentrate on spells while raging.
+            </description>
+          </feature>
+        </features>
+        <cantrips>
+          <cantrip>Fire Bolt</cantrip>
+          <cantrip>Resistance</cantrip>
+        </cantrips>
+      </subrace>
+      <subrace>
+        <name>Rose Quartz Gemborn</name>
+        <description>Their skin glows with a soft, gentle light, radiating warmth and compassion. They possess a natural empathy, feeling the joys and sorrows of others deeply. Their touch has a soothing effect, bringing comfort and healing to those in need.</description>
+        <abilityScoreIncrease>Charisma +2, Wisdom +1</abilityScoreIncrease>
+        <acBonus>1</acBonus>
+        <alignment>Strongly inclined toward Good alignments.</alignment>
+        <features>
+          <feature>
+            <name>Empathic Sense</name>
+            <description>Advantage on Persuasion and Insight checks to discern emotions.</description>
+          </feature>
+          <feature>
+            <name>Soothing Presence</name>
+            <description>Can expend a hit die to cast "Sanctuary."</description>
+          </feature>
+          <feature>
+            <name>Aura of Tranquility</name>
+            <description>Advantage on saves against charm/frighten, and nearby allies gain the same advantage.</description>
+          </feature>
+          <feature>
+            <name>Healing Hands</name>
+            <description>Has a pool of healing power to restore hit points.</description>
+          </feature>
+          <feature>
+            <name>Beacon of Hope</name>
+            <description>Can expend a hit die to grant temporary hit points to self and nearby allies.</description>
+          </feature>
+        </features>
+        <cantrips>
+          <cantrip>Healing Word</cantrip>
+          <cantrip>Light</cantrip>
+        </cantrips>
+      </subrace>
+    </subraces>
+  </race>
+</compendium>
