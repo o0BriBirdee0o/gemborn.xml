@@ -1,1 +1,128 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<compendium>
+  <race>
+    <name>Gemborn</name>
+    <description>
+      The sun beat down on the shimmering sands, reflecting off the iridescent scales of Lyra, an Amethyst Gemborn. Her skin, a deep purple hue, shimmered with an inner light, a testament to the powerful magic that flowed through her veins. Centuries had passed since she first emerged from the heart of a massive amethyst geode, her consciousness slowly awakening within the crystalline form. 
+      Lyra, like all Gemborn, possessed an innate connection to magic. She could sense the subtle vibrations of the world around her, the flow of arcane energy through the very air. Her mind was sharp, her intellect keen, a reflection of the clarity and focus inherent in her crystalline form. 
+      But the peace of her solitude was shattered by the arrival of a band of goblins, their crude weapons gleaming in the harsh sunlight. They had been drawn to the shimmering amethyst crystals that adorned Lyra's cave, their greed clouding their judgment. Lyra, however, was no mere ornament. With a graceful movement, she unleashed a psychic blast, sending the goblins reeling back in confusion and pain. 
+      This is just a glimpse into the life of a Gemborn. These beings of pure crystal possess unique abilities, such as an innate connection to magic and a remarkable resistance to certain forms of harm. They are a race of both beauty and power, their very existence a testament to the extraordinary forces that shape the world.
+    </description>
+    <keyFeatures>
+      <feature>
+        <name>Crystal Heart</name>
+        <description>Gemborn have advantage on Constitution saving throws against being poisoned or petrified.</description>
+      </feature>
+      <feature>
+        <name>Crystal Clarity</name>
+        <description>Gemborn have advantage on Intelligence (Arcana) checks.</description>
+      </feature>
+      <feature>
+        <name>Natural Armor</name>
+        <description>Gemborn have an AC of 10 + their Dexterity modifier + their Constitution modifier.</description>
+      </feature>
+    </keyFeatures>
+    <physicalDescription>
+      <appearance>Resemble humanoid beings composed of crystalline structures. Appearance varies greatly depending on the type of crystal.</appearance>
+      <size>Medium</size>
+      <speed>30 feet</speed>
+      <height>6'0" to 7'0"</height>
+      <weight>150-200 lbs</weight>
+      <lifespan>500-1000 years</lifespan>
+    </physicalDescription>
+    <startingEquipment>
+      <option>
+        <description>Two simple weapons</description>
+      </option>
+      <option>
+        <description>One simple weapon and one martial weapon</description>
+      </option>
+      <option>
+        <description>Explorer's Pack</description>
+      </option>
+      <option>
+        <description>Dungeoneer's Pack</description>
+      </option>
+      <option>
+        <description>Burglar's Pack</description>
+      </option>
+      <item>
+        <name>Crystal Shard</name>
+        <description>A sharp fragment of crystal that can be used as a makeshift weapon or tool.</description>
+      </item>
+      <item>
+        <name>Pouch of Crystal Dust</name>
+        <description>A small pouch containing powdered crystal that can be used for various purposes, such as creating a blinding flash or repairing minor damage to their crystalline form.</description>
+      </item>
+    </startingEquipment>
+    <suggestedClasses>
+      <class>Wizard</class>
+      <class>Sorcerer</class>
+      <class>Monk</class>
+      <class>Rogue</class>
+      <class>Cleric</class>
+    </suggestedClasses>
+    <roleplayingNotes>
+      <note>Gemborn are a relatively young race, still discovering their place in the world. They may be viewed with curiosity, awe, or even fear by other races.</note>
+      <note>Their crystalline nature can impact their social interactions. Some Gemborn might find it difficult to express emotions or form deep emotional connections, while others might be unusually sensitive to the emotions of others.</note>
+      <note>Gemborn may have a unique perspective on the world, viewing it through the lens of their crystalline nature. They might be drawn to places of natural beauty, such as crystal caves, gem mines, or shimmering lakes.</note>
+      <note>The different Gemborn variants might have distinct cultural and societal norms. For example, Diamond Gemborn might value strength and resilience, while Rose Quartz Gemborn might prioritize compassion and empathy.</note>
+    </roleplayingNotes>
+    <subraces>
+      <subrace>
+        <name>Amethyst Gemborn</name>
+        <description>A being of ethereal amethyst, their skin shimmering with an otherworldly glow. They move through the world with a sense of detached observation, perceiving patterns and connections unseen by others. Their minds are a kaleidoscope of visions, both from the past and potential futures.</description>
+        <abilityScoreIncrease>Intelligence +2, Wisdom +1</abilityScoreIncrease>
+        <acBonus>2</acBonus>
+        <alignment>Often Neutral or Chaotic</alignment>
+        <features>
+          <feature>
+            <name>Psychic Sensitivity</name>
+            <description>Advantage on Wisdom (Insight) checks and saves against charm/frighten.</description>
+          </feature>
+          <feature>
+            <name>Dream Weaver</name>
+            <description>1/long rest, trance for vision of future or distant location.</description>
+          </feature>
+          <feature>
+            <name>Phasewalk</name>
+            <description>1/long rest, ethereal state, immune to nonmagical weapons for 1 round.</description>
+          </feature>
+          <feature>
+            <name>Mind Shield</name>
+            <description>Advantage on saves against mental manipulation.</description>
+          </feature>
+          <feature>
+            <name>Arcane Intuition</name>
+            <description>Advantage on Intelligence (Arcana) checks to recall magic info.</description>
+          </feature>
+        </features>
+        <cantrips>
+          <cantrip>Mage Hand</cantrip>
+          <cantrip>Dancing Lights</cantrip>
+        </cantrips>
+      </subrace>
+      <subrace>
+        <name>Diamond Gemborn</name>
+        <description>Clad in crystalline armor, their form is a testament to strength and resilience. They exude an aura of authority and command, their presence inspiring both awe and respect. Their focus is unwavering, their determination unyielding.</description>
+        <abilityScoreIncrease>Strength +2, Constitution +1</abilityScoreIncrease>
+        <acBonus>3</acBonus>
+        <alignment>Tend toward Lawful alignments.</alignment>
+        <features>
+          <feature>
+            <name>Adamantine Resilience</name>
+            <description>Resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons.</description>
+          </feature>
+          <feature>
+            <name>Inner Light</name>
+            <description>1/long rest, emit bright light in a 15-foot radius for 1 minute, granting allies advantage on sight-based Perception checks.</description>
+          </feature>
+          <feature>
+            <name>Flawless Focus</name>
+            <description>Advantage on Concentration saving throws.</description>
+          </feature>
+          <feature>
+            <name>Diamond Aura</name>
+            <description>As a reaction when hit, can force attacker to make a Dexterity saving throw or take force damage.</description>
+          </feature>
+          <feature>
